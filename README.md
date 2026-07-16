@@ -7,7 +7,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-yr iss trha k batches do ye minimal modern lgty ha
+
 > Turning a single Ubuntu EC2 instance into a fully routed, secured, multi-application server — reverse proxying, virtual hosting, and HTTPS, all configured by hand with Nginx.
 
 ---
