@@ -1,15 +1,13 @@
 # 🚀 Nginx AWS Deployment — Advanced Configuration Lab
 
 ![AWS](https://img.shields.io/badge/AWS-EC2-orange?logo=amazonaws&logoColor=white)
-![VPC](https://img.shields.io/badge/AWS-VPC-orange?logo=amazonaws&logoColor=white)
-![ALB](https://img.shields.io/badge/AWS-Load%20Balancer-orange?logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-009639?logo=nginx&logoColor=white)
-![SSL](https://img.shields.io/badge/SSL-AWS%20ACM-003A70?logo=letsencrypt&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?logo=nginx&logoColor=white)
+![SSL](https://img.shields.io/badge/SSL-Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu%2022.04-E95420?logo=ubuntu&logoColor=white)
-![Django](https://img.shields.io/badge/Backend-Django-092E20?logo=django&logoColor=white)
-![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+yr iss trha k batches do ye minimal modern lgty ha
 > Turning a single Ubuntu EC2 instance into a fully routed, secured, multi-application server — reverse proxying, virtual hosting, and HTTPS, all configured by hand with Nginx.
 
 ---
